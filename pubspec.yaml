@@ -1,0 +1,12 @@
+name: l10n_example
+description: A minimal example of a localized Flutter app
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: ^0.8.2+3
+  flutter_localizations:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
