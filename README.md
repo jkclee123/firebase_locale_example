@@ -1,8 +1,4 @@
 # firebase_locale_example
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Localize flutter app built with firebase
+In app language according to system language settings
